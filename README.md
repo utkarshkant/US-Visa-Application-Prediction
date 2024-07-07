@@ -1,2 +1,2 @@
 # US-Visa-Application-Prediction
-Production Ready - End to end ML application
+Production Ready - End-to-End ML application
